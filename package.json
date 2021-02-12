@@ -29,7 +29,7 @@
     "typescript": "^4.1.5"
   },
   "devDependencies": {
-    "@qhnu/config": "^2.0.0"
+    "@qhnu/config": "^2.0.4"
   },
   "license": "MIT",
   "publishConfig": {
