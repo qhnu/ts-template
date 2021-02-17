@@ -1,2 +1,2 @@
 export declare const sample: (a: number, b: number) => number;
-//# sourceMappingURL=sample.d.ts.map
+//# sourceMappingURL=index.d.ts.map

@@ -32,11 +32,12 @@
     "@qhnu/config": "^2.0.5"
   },
   "license": "MIT",
+  "main": "dist/index.js",
   "publishConfig": {
     "access": "public"
   },
   "scripts": {
-    "build:dev": "ts-eager src/sample.ts",
+    "build:dev": "ts-eager src/index.ts",
     "build:dist": "rimraf dist/* && tsc -p tsconfig.build.json",
     "commit": "git add -A && cz",
     "fixpack": "fixpack",

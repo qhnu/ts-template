@@ -1,4 +1,4 @@
-import { sample } from './sample'
+import { sample } from '.'
 
 describe('sample', () => {
   it('add', () => {
