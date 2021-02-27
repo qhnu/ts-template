@@ -24,7 +24,6 @@
     "lint-staged": "^10.5.4",
     "next": "^10.0.7",
     "prettier": "^2.0.2",
-    "rimraf": "^3.0.2",
     "ts-eager": "^1.1.3",
     "typescript": "^4.1.5"
   },
@@ -38,7 +37,6 @@
   },
   "scripts": {
     "build:dev": "ts-eager src/index.ts",
-    "build:dist": "rimraf dist/* && tsc -p tsconfig.build.json",
     "commit": "git add -A && cz",
     "fixpack": "fixpack",
     "test:type": "tsc --noEmit",
