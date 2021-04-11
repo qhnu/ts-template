@@ -641,10 +641,10 @@
   resolved "https://registry.yarnpkg.com/@opentelemetry/context-base/-/context-base-0.14.0.tgz#c67fc20a4d891447ca1a855d7d70fa79a3533001"
   integrity sha512-sDOAZcYwynHFTbLo6n8kIbLiVF3a3BLkrmehJUyEbT9F+Smbi47kLGS2gG2g0fjBLR/Lr1InPD7kXL7FaTqEkw==
 
-"@qhnu/config@^2.0.6":
-  version "2.0.6"
-  resolved "https://registry.yarnpkg.com/@qhnu/config/-/config-2.0.6.tgz#fde285cb39865864745cf83ea0bfe4fd5c9bb216"
-  integrity sha512-nHO3pH0XrB15wfPVbBESROwlhgSfaF3EVA4zs/0wAo8KSkKSN4b47yAAD6AIEBPxZ2VgdJAf6BGEuo/f48zxeQ==
+"@qhnu/config@^2.0.7":
+  version "2.0.7"
+  resolved "https://registry.yarnpkg.com/@qhnu/config/-/config-2.0.7.tgz#f93fef5130f7fe74c4690006fb25d66482f2d592"
+  integrity sha512-qivhL4uapD5gnMPQ14eQdTnBe5/lihMVyJ5anyYme3D5Clp+Xp45EXt7J3x5I1cnKR3eITRZMhd6DPUI1atQ1Q==
 
 "@sinonjs/commons@^1.7.0":
   version "1.8.3"
@@ -2175,6 +2175,11 @@ eslint-plugin-jest@~24.3.5:
   integrity sha512-XG4rtxYDuJykuqhsOqokYIR84/C8pRihRtEpVskYLbIIKGwPNW2ySxdctuVzETZE+MbF/e7wmsnbNVpzM0rDug==
   dependencies:
     "@typescript-eslint/experimental-utils" "^4.0.1"
+
+eslint-plugin-simple-import-sort@^7.0.0:
+  version "7.0.0"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-simple-import-sort/-/eslint-plugin-simple-import-sort-7.0.0.tgz#a1dad262f46d2184a90095a60c66fef74727f0f8"
+  integrity sha512-U3vEDB5zhYPNfxT5TYR7u01dboFZp+HNpnGhkDB2g/2E4wZ/g1Q9Ton8UwCLfRV9yAKyYqDh62oHOamvkFxsvw==
 
 eslint-scope@^5.0.0, eslint-scope@^5.1.1:
   version "5.1.1"
